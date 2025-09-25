@@ -1,4 +1,4 @@
-# IBM-ML-w-python
+# IBM-Machine-Learning-W-Python
 Final Project in IBM Data Science Certificate Machine Learning with Python Course
 
 Topics Covered:
